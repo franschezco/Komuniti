@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792725473760",
+    "project_id": "komuniti-68cad",
+    "storage_bucket": "komuniti-68cad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792725473760:android:61257edbf39c8d9613c385",
+        "android_client_info": {
+          "package_name": "com.example.komuniti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792725473760-om7u0chf4690hrprgik6f7so0b1mmkta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXAHWY_RwLk2vQ5TOAUE_LotWqYU2TlQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792725473760-om7u0chf4690hrprgik6f7so0b1mmkta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
